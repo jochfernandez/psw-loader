@@ -1,0 +1,8 @@
+.traslucido{
+  background-color: rgba(0, 0, 0, 0.44);
+  color: white;
+}
+.tamaño{
+  width: 500px;
+  height: auto;
+}
